@@ -1,0 +1,6 @@
+{
+  "name": "مسار 1448",
+  "description": "متابعة التقويم الدراسي السعودي 1448هـ وعدادات الإجازات والاختبار التحصيلي واختبارات قياس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

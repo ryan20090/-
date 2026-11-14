@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">مسار 1448</string>
+    <string name="app_subtitle">التقويم الدراسي السعودي 1448 هـ - النسخة الشاملة</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_qiyas">مركز الاختبارات</string>
+    <string name="nav_study">الموزونة والجامعات</string>
+    <string name="nav_sources">مزامنة التوقيت</string>
+    <string name="select_grade_title">اختر المرحلة والصف الدراسي</string>
+    <string name="current_week_label">الأسبوع الدراسي الحالي</string>
+    <string name="tahsili_countdown_title">العد التنازلي للاختبار التحصيلي</string>
+    <string name="sync_now">مزامنة التاريخ الهجري والتحقق من التوقيت</string>
+    <string name="add_custom_exam">إضافة اختبار مخصص</string>
+    <string name="add_study_task">إضافة مهمة مذاكرة</string>
+    <string name="weighted_calc_title">حاسبة النسبة الموزونة ومستشار القبول الجامعي</string>
+    <string name="hero_banner_desc">شعار مسار العام الدراسي السعودي</string>
+    <string name="widget_title">ودجت مسار 1448</string>
+    <string name="widget_description">يعرض الأسبوع الدراسي الحالي وعداد أقرب إجازة والاختبار التحصيلي</string>
+</resources>
